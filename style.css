@@ -47,3 +47,29 @@ body{
     font-size: large;
     font-family: 'Pacifico', cursive;
 }
+@media screen and (max-width: 992px) {
+   .big-container{
+    display: block;
+    margin: auto;
+    padding: 20px;
+    margin
+   }
+   .container1, .container2{
+    display: block;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+   }
+    button, input{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25%;
+   }
+   button{
+    margin-left: 40%;
+   }
+   .container2{
+    margin-top: 60px;
+   }
+}
